@@ -19,7 +19,7 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
-    min-height: 300px;
+    min-height: 400px;
     width: 300px;
     background-color: white;
     border-radius: 15px;
